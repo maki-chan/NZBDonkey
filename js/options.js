@@ -141,7 +141,7 @@ function NZBDonkeyOptions() {
 		name: 'categories',
 		type: 'radio',
 		options: [{
-			desc: 'Do not unse categories',
+			desc: 'Do not use categories',
 			value: false
 		}, {
 			desc: 'Use default category',
